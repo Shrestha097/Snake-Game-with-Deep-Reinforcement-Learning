@@ -36,12 +36,15 @@ Test result: 10 apples per episode
 <img width="846" alt="image" src="https://github.com/Shrestha097/Snake-Game-with-Deep-Reinforcement-Learning/assets/78401805/460661ca-17e1-472b-b320-6021c95b043d">
 
 
+
 **DDQN:**
 
 Training result: 10 apples per episode,
 Test result: 7 apples per episode
 
 <img width="846" alt="image" src="https://github.com/Shrestha097/Snake-Game-with-Deep-Reinforcement-Learning/assets/78401805/77290310-710a-4846-9b6f-40eb63d1d9cc">
+
+
 
 **A2C:**
 
